@@ -1,1 +1,4 @@
-export enum FilterStatus { PENDING = "pending", DONE = "done", }
+export enum FilterStatus {
+  PENDING = "pending",
+  DONE = "done",
+}
